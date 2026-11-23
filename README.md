@@ -1,5 +1,9 @@
 # Sum up 23 November's world news in one image
 
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Galabaderihu/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Galabaderihu/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 Entry for the make.fun bounty **“Sum up 23 November's world news in one image”**
 (`news-image-20261123`, $100 in USDC, 50 paid places, ends 25 Nov 2026 00:00 UTC).
 
